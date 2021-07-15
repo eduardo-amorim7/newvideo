@@ -33,7 +33,7 @@ echo $dif, " Seconds "; ?>">
 
 <head>
   <link rel="shortcut icon" href="caminhodoarquivo/favicon.ico" />
-	<title>E-COMMERCE YOUTUBE</title>
+	<title>E-commerce · AVideo</title>
 	<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
@@ -54,7 +54,7 @@ echo $dif, " Seconds "; ?>">
 
 
 	<nav class="navbar navbar-expand-lg" style="background-color: #090b0c"  > 
-    <a class="navbar-brand" href="http://video-dev.us-east-1.elasticbeanstalk.com/AVideo-master/">
+    <a class="navbar-brand" href="http://video-dev.us-east-1.elasticbeanstalk.com/">
       <img src="img/logo 101-01.png" alt="" width="72" height="72">
     </a>
 
