@@ -55,7 +55,7 @@ echo $dif, " Seconds "; ?>">
 
 	<nav class="navbar navbar-expand-lg" style="background-color: #090b0c"  > 
     <a class="navbar-brand" href="http://video-dev.us-east-1.elasticbeanstalk.com/">
-      <img src="img/logo 101-01.png" alt="" width="72" height="72">
+      <img src="img/logo 101-01.png" alt="" width="70" height="70">
     </a>
 
 		<h3 class="text-white">E-COMMERCE</h3>
