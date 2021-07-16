@@ -64,7 +64,7 @@ echo $dif, " Seconds "; ?>">
     	
       <li class="nav-item">
       
-       <a class="nav-link text-white"  href="http://video-dev.us-east-1.elasticbeanstalk.com/AVideo-master/"><span class="glyphicon glyphicon-home"></span> HOME
+       <a class="nav-link text-white"  href="http://video-dev.us-east-1.elasticbeanstalk.com/"><span class="glyphicon glyphicon-home"></span> HOME
         
     
          </a> 
