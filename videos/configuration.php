@@ -13,7 +13,7 @@ $global['logfile'] = '/var/www/html/newvideo/videos/avideo.log';
   //  $global['webSiteRootURL'] = 'http://video-dev.us-east-1.elasticbeanstalk.com/newvideo/';
 //}
 
-$global['webSiteRootURL']='http://video-dev.us-east-1.elasticbeanstalk.com/AVideo-master/';
+$global['webSiteRootURL']='http://video-dev.us-east-1.elasticbeanstalk.com/newvideo/';
 
 $global['systemRootPath'] = '/var/www/html/newvideo/';
 $global['salt'] = '60f1b9bba7ca2';
