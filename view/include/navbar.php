@@ -1167,7 +1167,7 @@ if (!User::isLogged() && !empty($advancedCustomUser->userMustBeLoggedIn) && !emp
                     <!-- categories -->
                     <li>
                         <h3>
-                            <a href="<?php echo $global['webSiteRootURL']; ?>listCategories" class="text-danger">
+                            <a href="<?php echo $global['webSiteRootURL']; ?>Categories" class="text-danger">
     <?php echo __($advancedCustom->CategoryLabel); ?>
                             </a>
                         </h3>
